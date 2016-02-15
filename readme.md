@@ -2,15 +2,15 @@
 
 ## Usage
 
-    // Import
-
-    @import "node_modules/sass-media-mixins/index";
-
     // Media query breakpoints
 
     $media-small-start: 0;
     $media-medium-start: 640px;
     $media-large-start: 1280px;
+
+    // Import
+
+    @import "node_modules/sass-media-mixins/index";
 
     // Media query mixins
 
