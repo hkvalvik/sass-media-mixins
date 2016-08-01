@@ -1,5 +1,6 @@
 {
   "name": "sass-media-mixins",
+  "description": "Configurable media query mixins",
   "version": "1.0.0",
   "repository": {
     "type": "git",
